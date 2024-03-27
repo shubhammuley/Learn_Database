@@ -3,11 +3,17 @@
 Follow this step-by-step to learn about database concepts using SQL Server.
 
 CREATE
+
 INSERT
+
 UPPER/LOWER CASE
+
 HAVING
+
 DESC
+
 ORDER BY CASE
+
 DIFF BETWEEN ZERO,BLANK AND NULL
 LENGTH
 DISTINCT
